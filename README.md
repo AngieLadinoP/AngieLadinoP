@@ -32,8 +32,14 @@
  </p>
 <br/><br/>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngieLadinoP&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats&theme=dracula&title_color=000000&text_color=ffffff&bg_color=e71224&locale=en" alt="angie-ladino"></p>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngieLadinoP&show_icons=true&theme=dracula&title_color=000000&text_color=ffffff&bg_color=e71224&locale=en" alt="angie-ladino" /></p>
+
+
 <br/>
 <p align="center">
 <a href="https://www.linkedin.com/in/angie-ladino-823060233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="80" height=80/></a
 </p>
+  
+
